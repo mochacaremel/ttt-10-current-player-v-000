@@ -119,7 +119,7 @@ def run_game
   end
 end
 
-<<<<<<< HEAD
+HEAD
 run_game
 
 # require 'set'
